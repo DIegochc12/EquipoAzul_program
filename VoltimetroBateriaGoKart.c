@@ -12,7 +12,7 @@ unsigned char i=0;
 unsigned char temp=0;
 unsigned char valor_recibido_UART=0;
 
-unsigned char mensaje1[]={"Hola mundo \n\r"};
+
 unsigned char voltaje_ASCII[]={"#.### V\n\r"};
 
 unsigned char valor_ADC;
